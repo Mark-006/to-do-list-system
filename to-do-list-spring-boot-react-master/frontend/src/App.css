@@ -10,3 +10,18 @@ a:hover {
    color: rgb(159, 159, 255);
    text-decoration: none;
 }
+.task {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+}
+
+.task button {
+  margin-top: 8px;
+  padding: 8px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+

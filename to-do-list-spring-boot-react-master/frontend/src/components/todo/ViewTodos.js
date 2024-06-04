@@ -178,7 +178,7 @@ function Todos({isAuthenticated, setIsAuthenticated}) {
 
 	return (
 		<div className="container">
-			<h1 className="text-center">Todo List</h1>
+			<h1 className="text-center">Schedule operation app</h1>
 			{showErrorMessage()}
 			
 			{filterControl()}

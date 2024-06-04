@@ -66,6 +66,7 @@ function UpdateTodo({isAuthenticated, setIsAuthenticated, match}) {
       setErrorMessage('');
       setTitle(response.data.title);
       setTargetDate(moment(response.data.targetDate).format('YYYY-MM-DD'));
+      
     }
     
 		loadData();
