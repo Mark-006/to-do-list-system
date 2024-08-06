@@ -1,1 +1,1 @@
-# A to-do or schedule sytem app
+# A to-do or schedule system app
